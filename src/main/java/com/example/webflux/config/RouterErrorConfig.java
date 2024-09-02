@@ -1,5 +1,6 @@
 package com.example.webflux.config;
 
+import com.mongodb.internal.VisibleForTesting;
 import org.springframework.boot.web.error.ErrorAttributeOptions;
 
 import org.springframework.boot.web.servlet.error.DefaultErrorAttributes;
